@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Speech to Speech Translator</string>
+    <string name="translation_label">Translation:</string>
+    <string name="translate">translate</string>
+    <string name="input_hint">Voice Input</string>
+    <string name="output_hint">Output</string>
+    <string name="target_language">Target Language</string>
+    <string name="spanish">Spanish</string>
+    <string name="french">French</string>
+    <string name="italian">Italian</string>
+    <string name="microphone">Microphone</string>
+    <string name="play">Play</string>
+</resources>
